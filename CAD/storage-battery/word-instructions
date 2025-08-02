@@ -1,0 +1,70 @@
+- Create a sketch
+- center rectangle around origin and smart/sketch dimension to 90mm (up and down) x 110mm(left to right)
+- extrude the rectangle by 15mm.
+- create another sketch and select the top of the rectangle as the new surface.
+- create a construction rectangle around origin (do not make it on the construction cross center lines and use a regular triangle) and smart/sketch dimension the long side to 98mm and the short side to 82mm. then smart/sketch dimension the outer edge on two sides to the outer edge of the outer rectangle on its corresponding side and make it 6mm. this is your inner boundary rectangle. the slots will hug this but allow it to keep a consistent spacing from the edge.
+- find the dimensions of a USB type A male end. (should be 4mm by 12mm). make a rectangle hugging the top right corner of the inner construction rectangle with those dimensions plus 1 to each to compensate for variables like a poor 3D printer (so 5mm (left to right) by 13mm (up and down)).
+- in the sketch find the rectangular/linear pattern and click it.
+	- select the rectangle you created.
+	- then, set the distribution to spacing. this is the spacing between objects from the center. 
+	- for one direction, ensure it's facing left, then set quantity to 6 and distance to 12.00mm. this will create 6 of them total. the 12.00mm is the width (5mm) plus the spacing we want (3.5mm per flash drive, 7mm total)
+	- for the other direction, ensure its facing down and set quantity to 2 and distance to 24mm. this will create a second row. the 24mm is the length (13mm) plus the spacing we want (5.5 per flash drive, 11mm total).
+	- this produces your flash drive "bays"
+- then, find the right side of the construction rectangle and under the last flash drive rectangle on the right side, make another rectangle. Find the dimensions for a micro SD card (1mm thick, 11 wide, 15mm tall) set the thickness to 1.5mm (for compensation), and the width to 11.5mm. smart/sketch dimension the top of this rectangle to the bottom of the flash drive rectangle above it to 6mm.
+	- in the sketch, find the rectangular/linear pattern and click it.
+	- select the rectangle you created.
+	- then, set the distribution to spacing and direction to the left. 
+	- for quantity input 9
+	- for distance input 4.625 (1.5mm for the thickness and 3.125mm for the spacing. this specific spacing allows it to perfectly align with the upcoming SD card slots)
+	- for vertical quantity, ensure its set to 1 and a distance of 0mm.
+	- press "ok"
+	- this produces your micro SD card bays
+- then, find the right side of the construction rectangle and under the last micro SD card rectangle rectangle on the right side, make another rectangle. find the dimensions for an SD Card (2.1mm thick, 24mm wide and 32mm tall) set thickness to 2.5mm (for compensation), and width to 25mm. then smart/sketch dimension the top of this one to the micro SD card slot above it to 2.5mm. this should cause the bottom of this slot to perfectly match up with the bottom of the construction rectangle.
+	- in the sketch, find the rectangular/linear pattern and click it.
+	- select the rectangle you created.
+	- then, set the distribution to spacing and direction to the left.
+	- for quantity input 0
+	- for distance input 4.5mm (2.5 for thickness and 2mm for spacing)
+	- for vertical quantity, ensure its set to 1 and distance of 0mm.
+	- press "ok"
+	- this is produces your micro SD card bays
+- then, find the top right of the construction rectangle and create a circle inside of it. find the dimensions for a AAA battery (10mm diameter 44mm tall) make this circle 10.5mm in diameter (for compensation) smart/sketch dimension the circle (it should default from its center) to the edges of the construction rectangle and make both sides 5.25mm so the circle hugs the edges.
+	- in the sketch, find the rectangular/linear pattern and click it.
+	- select the circle you created.
+	- then, set the distribution to spacing
+	- for the first direction, set it to right and input a quantity of 2 and a distance of 18.5mm.
+	- for the second direction, set it to down and input a quantity of 3 and a distance of 13.25mm.
+	- press "ok"
+	- find the line sketch, click it. then on the right, select "center line" and find the center of the top left circle and click. then drag to the center of the circle under it, then click. press escape. create another center line that follows the same pattern, but on the right column of circles. then create another center line in the center of left vertical center line and drag it across to the right vertical center line.
+	- create a circle at this horizontal center line's midpoint. make it 10.5mm diameter.
+	- find the rectangular/linear pattern, select the circle you just created, and set the distribution to spacing. for horizontal, set quantity to 1 and distance to 0. for vertical (going down) set the quantity to 2 and distance to 13.25mm.
+	- press "ok"
+	- this creates 8 holes for AAA batteries.
+- then, find the bottom left corner of your construction rectangle and create a circle inside of it. find the dimensions for a AA battery (14mm diameter 50mm tall). make this circle 14.5 mm in diameter (for compensation). smart/sketch dimension this circle (it should default from its center) to the edges of the construction rectangle and make both sides 7.25mm so the circle hugs the edges.
+	- in the sketch, find the rectangular/linear pattern and click it.
+	- select the circle you created.
+	- then, set the distribution to spacing.
+	- for the first direction, set it to right and input a quantity of 3 and a distance of 20mm.
+	- for the second direction, set it to up and input a quantity of 2 and a distance of 24.5mm.
+	- press "ok"
+	- find the line sketch, click it. then on the right, select "center line" and find the center of the bottom left circle and click. then drag to the center of the circle to the right of it. then click. press escape. create another center line that follows the same pattern but on the upper row of circles. then create another center line in the center of the bottom horizontal center line and drag it up to the top horizontal center line.
+	- create a circle at this vertical center line's midpoint. make it 14.5mm diameter.
+	- find the rectangular/linear pattern, select the circle you created, and set the distribution to spacing. for horizontal to the right, set quantity to 2 and spacing to 20mm. for vertical, set quantity 1 and distance 0.
+	- press "ok"
+	- this creates 8 holes for AA batteries.
+- before extruding, find the "trim" tool and click on it. locate the center lines that fully divide a circle in 2. if it only goes half way through it, you can keep it. if not, trim it.
+- next, extrude cut into the rectangular prism. for each extrude, go back and edit the sketch and create a new extrude. do not do them all on the same action.
+	- on fusion 360, go to SOLID, then Extrude:
+		- Select flash drive rectangles, then ensure the direction is facing into the already solid part. on the right, leave everything as is except for:
+			- if the distance is positive but the arrow points away from the solid, make it negative. set the distance to extrude cut into the solid 10mm. ENSURE THE OPERATION IS "CUT"
+			- press "ok"
+		- Then, select the micro SD card rectangles, then ensure the direction is facing into the already solid part. on the right, leave everything as is except for:
+			- if the distance is positive but the arrow points away from the solid, make it negative. set the distance to extrude cut into the solid 7mm. ENSURE THE OPERATION IS "CUT"
+			- press "ok"
+		- Then, select the SD card rectangles, then ensure the direction is facing into the already solid part. on the right, leave everything as is except for:
+			- if the distance is positive but the arrow points away from the solid, make it negative. set the distance to extrude cut into the solid 8mm. ENSURE THE OPERATION IS "CUT"
+			- press "ok"
+		- Finally, select ALL battery circles (both AAA and AA), then ensure the direction is facing into the already solid part. on the right leave everything as is except for:
+			- if the distance is positive but the arrow points away from the solid, make it negative. set the distance to extrude cut into the solid 10mm. ENSURE THE OPERATION IS "CUT"
+			- press "ok"
+- Last but not least, find the "fillet" action in the Solid 3D tools and click it. click on all four of the vertical edges on the very outside of your model. set the fillet to 5mm. then press "ok"
