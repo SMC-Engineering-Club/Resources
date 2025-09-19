@@ -1,46 +1,46 @@
 ## General Information:
 
-Semester: **Fall** / Spring |  2025
-Faculty Advisor: Tram Dang - dang_tram@smc.edu
-Student Leads / Officers:
-- President: Eve Sheldon
-- Vice President: Thomas Yamada
-- ICC Delegate: Donovan
-- Officer: Carlos
+Semester: **Fall** / Spring |  2025  
+Faculty Advisor: Tram Dang - dang_tram@smc.edu  
+Student Leads / Officers:  
+- President: Eve Sheldon  
+- Vice President: Thomas Yamada  
+- ICC Delegate: Donovan  
+- Officer: Carlos  
 
-## Meeting Information:
+## Meeting Information:  
+  
+Meeting Day(s): Tuesdays  
+Time: 11:15AM - 12:30PM  
+Location: Drescher 111  
+Modality: In-Person  
 
-Meeting Day(s): Tuesdays
-Time: 11:15AM - 12:30PM
-Location: Drescher 111
-Modality: In-Person
+## Mission Statement:  
 
-## Mission Statement:
-
-Here at the Santa Monica College Engineering Club, we'll use hands-on learning through workshops and various projects to not only entertain, but to educate future STEM extraordinaires with the basic skills to not only fuel upcoming endeavors but also your hobbies.
+Here at the Santa Monica College Engineering Club, we'll use hands-on learning through workshops and various projects to not only entertain, but to educate future STEM extraordinaires with the basic skills to not only fuel upcoming endeavors but also your hobbies.  
 
 
-## Objectives:
+## Objectives:  
 
-By the end of the semester, you'll know how to:
-- Perform basic modeling in various 3D CAD programs.
-- Solder wires and electrical components onto PCBs.
-- Learn about how some electrical components work.
-- Deepen your collaborative abilities.
+By the end of the semester, you'll know how to:  
+- Perform basic modeling in various 3D CAD programs.  
+- Solder wires and electrical components onto PCBs.  
+- Learn about how some electrical components work.  
+- Deepen your collaborative abilities.  
 
-## Tools/Resources:
+## Tools/Resources:  
 
-During the semester you'll have access to the following:
-- **Software**: Solidworks, Onshape, Fusion360, KiCad, Arduino IDE
-- **Hardware**: 3D Printers (with permission), soldering stations, and computers with Solidworks.
-- **Workshop Access (Drescher 111)**: 
-	- Tool Use OK:
-		- Monday 1:30PM - 2:30PM, 5:00PM - 6:00PM
-		- Wednesday 5:00PM - 6:00PM
-- **Online Resources**: 
-	- A [Github Repository](https://smcengr.com/github) with CAD files and documentation we'll use over the course of the semester.
-	- Our [Discord Server](https://discord.smcengr.com) where you can ask questions (about school or not), whenever you'd like.
-	- Our [website](https://www.smcengr.com) with event details, this syllabus, and links/guides to any other resources.
+During the semester you'll have access to the following:  
+- **Software**: Solidworks, Onshape, Fusion360, KiCad, Arduino IDE  
+- **Hardware**: 3D Printers (with permission), soldering stations, and computers with Solidworks.  
+- **Workshop Access (Drescher 111)**:   
+	- Tool Use OK:  
+		- Monday 1:30PM - 2:30PM, 5:00PM - 6:00PM  
+		- Wednesday 5:00PM - 6:00PM  
+- **Online Resources**:   
+	- A [Github Repository](https://smcengr.com/github) with CAD files and documentation we'll use over the course of the semester.  
+	- Our [Discord Server](https://discord.smcengr.com) where you can ask questions (about school or not), whenever you'd like.  
+	- Our [website](https://www.smcengr.com) with event details, this syllabus, and links/guides to any other resources.  
 
 ## Weekly Schedule:
 
