@@ -5,8 +5,8 @@ Faculty Advisor: Tram Dang - dang_tram@smc.edu
 Student Leads / Officers:  
 - President: Eve Sheldon  
 - Vice President: Thomas Yamada  
-- ICC Delegate: Donovan  
-- Officer: Carlos  
+- ICC Delegate: Donovan Demyanenko  
+- Officer: Carlos Soria  
 
 ## Meeting Information:  
   
