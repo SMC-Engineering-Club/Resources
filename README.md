@@ -6,6 +6,13 @@ MicroSD/SD/Flashdrive/AA/AAA Holder: [Folder](https://github.com/thomas-yamada/S
 
 
 
+## External Resources
+
+
+[The Effects of Critical Process Variables on Weld Quality and Mechanical Performance in Handheld Laser Welding](https://handheldlaserinstitute.com/the-effects-of-critical-process-parameters/) by the Handheld Laser Institute
+
+
+
 &copy; 2025 SMC Engineering Club — Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 [![CC BY-NC 4.0][cc-by-nc-svg]][cc-by-nc]
