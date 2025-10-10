@@ -1,9 +1,13 @@
 # SMC-Engineering-Club-Resources
 This is a repository containing the resources provided to the students in the SMC Engineering Club.
 
-MicroSD/SD/Flashdrive/AA/AAA Holder: [Folder](https://github.com/thomas-yamada/SMC-Engineering-Club-Resources/tree/main/CAD/storage-battery), [Instructions](https://github.com/thomas-yamada/SMC-Engineering-Club-Resources/blob/main/CAD/storage-battery/word-instructions), [STL](https://github.com/thomas-yamada/SMC-Engineering-Club-Resources/blob/main/CAD/storage-battery/microSD-SD-flashdrive-AA-AAA%20holder%20final%20version.%20v1.stl), [Fusion360](https://github.com/thomas-yamada/SMC-Engineering-Club-Resources/blob/main/CAD/storage-battery/microSD-SD-flashdrive-AA-AAA%20holder%20final%20version.%20v1.f3d)
+## CAD
+- [CAD Powerpoints](https://github.com/SMC-Engineering-Club/Resources/tree/main/Powerpoints/CAD)
+- MicroSD/SD/Flashdrive/AA/AAA Holder: [Folder](https://github.com/thomas-yamada/SMC-Engineering-Club-Resources/tree/main/CAD/storage-battery), [Instructions](https://github.com/thomas-yamada/SMC-Engineering-Club-Resources/blob/main/CAD/storage-battery/word-instructions), [STL](https://github.com/thomas-yamada/SMC-Engineering-Club-Resources/blob/main/CAD/storage-battery/microSD-SD-flashdrive-AA-AAA%20holder%20final%20version.%20v1.stl), [Fusion360](https://github.com/thomas-yamada/SMC-Engineering-Club-Resources/blob/main/CAD/storage-battery/microSD-SD-flashdrive-AA-AAA%20holder%20final%20version.%20v1.f3d)
 
-
+## Miscellaneous
+- [Syllabus](https://github.com/SMC-Engineering-Club/Resources/blob/main/Syllabus.md)
+- [License](https://github.com/SMC-Engineering-Club/Resources/blob/main/LICENSE); This applies for everything in the repository unless _specifically_ stated.
 
 
 ## External Resources
