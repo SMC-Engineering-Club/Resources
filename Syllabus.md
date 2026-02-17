@@ -2,13 +2,15 @@
 
 Semester: Fall / **Spring** |  2026  
 Faculty Advisor: Tram Dang - dang_tram@smc.edu  
-Student Leads / Officers:  
+Student Leads:  
 - President: Eve Sheldon  
 - Vice President: Thomas Yamada  
-- ICC Delegate: Donovan Demyanenko  
-- Officer: Carlos Soria  
-- TBD: Michael Strauss
-- TBD: Mariam Amkhaz
+
+Student Organizers:
+- Carlos Soria
+- Donovan Demyanenko
+- Mariam Amkhaz (ICC rep.)
+- Michael Strauss
 
 ## Contact:
 Engineering Club: smcengineeringclub11@gmail.com  
