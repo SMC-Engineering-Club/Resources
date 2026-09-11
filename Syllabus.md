@@ -52,7 +52,7 @@ During the semester you'll have access to the following:
 - **September 29, 2026, 11:15am at the Quad** we will have a table for the Club Awareness day. There will be NO club meeting that day.
 - **December 01, 2026, 11:45am at Drescher 111** we will have hour last day of club meetings, allowing you to use your last week to study for finals. Good Luck!
 
-## Activities:
+## Planned Activities:
 
 The following are activities planned for the semester. Stay updated in our Discord and on our Instagram to know which activity is coming up:
 - Computer Aided Design (CAD):
