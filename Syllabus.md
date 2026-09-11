@@ -5,11 +5,12 @@ Faculty Advisor: Tram Dang - dang_tram@smc.edu
 Student Leads:  
 - President: Thomas Yamada  
 - Vice President: Michael Strauss  
-
-Student Organizers:
+- ICC Delagate: Omzee Pitchford
+- Officer: Donovan Demyanenko  
 
 ## Contact:
-Engineering Club: smcengineeringclub11@gmail.com  
+
+Email: smcengineeringclub11@gmail.com  
 Instagram: @engineeringclub_smc  
 Discord: https://discord.smcengr.com  
 
@@ -45,6 +46,20 @@ During the semester you'll have access to the following:
 	- Our [Discord Server](https://discord.smcengr.com) where you can ask questions (about school or not), whenever you'd like.  
 	- Our [website](https://www.smcengr.com) with event details, this syllabus, and links/guides to any other resources.  
 
-## Weekly Schedule:
+## Important Dates:
 
-### TDB
+- **September 15, 2026, 11:45am at Drescher 111** we will host the first meeting which will include introductions as well as a safety walkthrough of the EFL Makerspace.
+- **September 29, 2026, 11:15am at the Quad** we will have a table for the Club Awareness day. There will be NO club meeting that day.
+- **December 01, 2026, 11:45am at Drescher 111** we will have hour last day of club meetings, allowing you to use your last week to study for finals. Good Luck!
+
+## Activities:
+
+The following are activities planned for the semester. Stay updated in our Discord and on our Instagram to know which activity is coming up:
+- Computer Aided Design (CAD):
+	- A crash course to CAD and how to use the most basic of tools.
+- 3D Printing:
+	- Using your CAD knowledge, you'll be able to 3D print your models to take home with you.
+- Soldering:
+	- Using soldering kits you get to take home, you'll be learning the basics of soldering including how to stay safe when working with different types of solder.
+- Drone Workshop:
+	- As an end of semester project, we plan on allowing members to work on a small drone where you will 3D print the parts, solder the motor connections to the main board, and fly it.
