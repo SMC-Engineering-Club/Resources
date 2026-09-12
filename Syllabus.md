@@ -23,7 +23,7 @@ Modality: In-Person
 
 ## Mission Statement:  
 
-Here at the Santa Monica College Engineering Club, we'll use hands-on learning through workshops and various projects to not only entertain, but to educate future STEM extraordinaires with the basic skills to not only fuel upcoming endeavors but also your hobbies.  
+Here at the Santa Monica College Engineering Club, we'll use hands-on learning through workshops and various projects to not only entertain, but to educate future STEM extraordinaires with the basic skills to fuel upcoming endeavors and hobbies.  
 
 
 ## Objectives:  
@@ -50,7 +50,7 @@ During the semester you'll have access to the following:
 
 - **September 15, 2026, 11:45am at Drescher 111** we will host the first meeting which will include introductions as well as a safety walkthrough of the EFL Makerspace.
 - **September 29, 2026, 11:15am at the Quad** we will have a table for the Club Awareness day. There will be NO club meeting that day.
-- **December 01, 2026, 11:45am at Drescher 111** we will have hour last day of club meetings, allowing you to use your last week to study for finals. Good Luck!
+- **December 01, 2026, 11:45am at Drescher 111** we will have our last day of club meetings, allowing you to use your last week to study for finals. Good Luck!
 
 ## Planned Activities:
 
