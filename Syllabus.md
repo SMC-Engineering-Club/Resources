@@ -5,8 +5,10 @@ Faculty Advisor: Tram Dang - dang_tram@smc.edu
 Student Leads:  
 - President: Thomas Yamada  
 - Vice President: Michael Strauss  
-- ICC Delagate: Omzee Pitchford
-- Officer: Donovan Demyanenko  
+- Facilitator: Carlos Soria
+- EFL Ambassador: Maria Fao
+- Social Media Manager: Alex Guerrero
+- Communications Manager: Tara Wickstrom
 
 ## Contact:
 
