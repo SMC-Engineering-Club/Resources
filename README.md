@@ -9,6 +9,9 @@ This is a repository containing the resources provided to the students in the SM
 - [Soldering Powerpoint](https://github.com/SMC-Engineering-Club/Resources/tree/main/Powerpoints/Electronics)
 - [Electrical Components Powerpoint](https://github.com/SMC-Engineering-Club/Resources/tree/main/Powerpoints/Electronics)
 
+## Projects
+- [Drone Powerpoint](https://github.com/SMC-Engineering-Club/Resources/tree/main/Powerpoints/Drones)
+
 ## Miscellaneous
 - [Syllabus](https://github.com/SMC-Engineering-Club/Resources/blob/main/Syllabus.md)
 - [License](https://github.com/SMC-Engineering-Club/Resources/blob/main/LICENSE); This applies for everything in the repository unless _specifically_ stated.
